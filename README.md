@@ -24,6 +24,19 @@
 <img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/0239cc1c-329c-4978-b7e9-d9ff6159e8ee">
 <img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/de548725-514b-4ade-bb3c-4da7eea7e4f1">
 <img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/3ae71ea1-fc3e-44ff-b482-1a8e16781036">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/8af3a032-71ec-4aa3-b0a5-c7e2ce715438">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/42e7fe63-19aa-42b0-9e6f-23163d2df15f">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/83fb0b3f-0a82-405c-b08e-a0c9c27c5edb">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/613c7522-f839-4225-9330-f5d8edd6a791">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/65257a63-4703-4045-9bf0-6308efa60a31">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/9a8751d2-a767-4732-aea9-74c10e5a84cf">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/5a8265e5-a7f5-4bc1-aaf1-e66c56afe284">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/9546a286-e95c-42af-a2a8-c3d85469258a">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/48f026f4-6321-4f52-9e16-f27debdc618e">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/7f46782b-c717-4025-b7c6-7936268eebaa">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/06e88008-d8d2-467f-843d-57f2bc91f565">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/9c8faa7a-fd21-411c-85a4-d314803d4add">
+
 
 
 
