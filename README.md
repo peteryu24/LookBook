@@ -17,13 +17,14 @@
 <img width="1435" alt="6" src="https://github.com/peteryu24/book_recommendation/assets/67302252/2fa82afa-1140-418d-9986-5d0196ecc28e">
 <img width="1435" alt="7" src="https://github.com/peteryu24/book_recommendation/assets/67302252/91d76902-5ce8-4db6-be9c-978d001c1042">
 <img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/85496a5c-567a-4efb-a608-309292ce242b">
-![1](https://github.com/peteryu24/book_recommendation/assets/67302252/aea9c397-7e51-42c0-84c0-0ed8455cf329)
-![2](https://github.com/peteryu24/book_recommendation/assets/67302252/0a571d3e-4a57-4833-b9ab-f6e494ec3dcf)
-![3](https://github.com/peteryu24/book_recommendation/assets/67302252/b117d913-7487-4559-9417-3df300b420f1)
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/aea9c397-7e51-42c0-84c0-0ed8455cf329">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/0a571d3e-4a57-4833-b9ab-f6e494ec3dcf">
+<img width="1436" alt="9" src="https://github.com/peteryu24/book_recommendation/assets/67302252/b117d913-7487-4559-9417-3df300b420f1">
 ![4](https://github.com/peteryu24/book_recommendation/assets/67302252/569fad68-38be-4e7d-a09f-31836c618f0e)
 ![5](https://github.com/peteryu24/book_recommendation/assets/67302252/0239cc1c-329c-4978-b7e9-d9ff6159e8ee)
 ![6](https://github.com/peteryu24/book_recommendation/assets/67302252/de548725-514b-4ade-bb3c-4da7eea7e4f1)
 ![7](https://github.com/peteryu24/book_recommendation/assets/67302252/3ae71ea1-fc3e-44ff-b482-1a8e16781036)
+
 
 
 
