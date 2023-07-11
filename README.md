@@ -41,7 +41,6 @@
 
 
 
-포스터
+## <포스터>
 
-
-<img width="641" alt="포스터" src="https://github.com/peteryu24/book_recommendation/assets/67302252/5761bc27-c6b3-44a8-af88-291eb6f27a7c">
+![1](https://github.com/peteryu24/book_recommendation/assets/67302252/e78e88db-79f4-40d6-9e06-5b903fa0175d)
